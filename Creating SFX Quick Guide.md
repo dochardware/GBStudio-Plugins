@@ -1,4 +1,6 @@
 # Using Game Boy Sound Manipulator
+Included with the plugin is a rom for Game Boy Sound Manipulator which will help you in creating your sound effects
+
 <img width="400" alt="Screen Shot 2021-12-24 at 7 36 09 AM" src="https://user-images.githubusercontent.com/1316677/147364523-f754316a-a6f8-4d9d-bb75-415a685582a8.png">
 Load the rom into your emulator (I recommend Sameboy but any is fine) or your flashcard. After the start screen you will be greeted by Channel 1 which in GBStudio is Tone in the Play Sound event. You can navigate using left and right which will tell you how each section will shape your sound. Changing parameters will automatically preview your sound but you can also press Start. Select will cycle through the other sound channels. You don’t need to be an expert on this but here is a bit of a guide to get you started.
 
