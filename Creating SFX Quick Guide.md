@@ -66,7 +66,7 @@ Ch 3 is special in that it allows you to create your own instruments.
 
 <img width="400" alt="Screen Shot 2021-12-24 at 10 51 13 AM" src="https://user-images.githubusercontent.com/1316677/147365651-879dc052-566f-467c-8438-aebb93d43a38.png">
 
-I absolutely do not understand all of it but there are [people who do](https://www.youtube.com/watch?v=1aSAqWgtrD0). You're essentially using the values on the right to manipulate the waveform on the left to make shapes. You can probably look up some shapes for various sounds.
+I absolutely do not understand all of it but there are [people who do](https://www.youtube.com/watch?v=1aSAqWgtrD0). You're essentially using the values on the left to manipulate the waveform on the right to make waveform shapes. You can probably look up some shapes for various sounds.
 
 
 ## Getting this all into GBStudio
