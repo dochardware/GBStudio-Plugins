@@ -10,8 +10,8 @@ https://user-images.githubusercontent.com/1316677/147364085-4a68166d-6dd0-42be-9
 ## What does it do?
 The stock Play Sound event is pretty bare bones. To get any decent sound requires you to stack several of them, adding a bit of lag for each one placed. Even then, you don’t get contol over volume, envelope, or any tools that help shape your sound. This plugin allows you to use hex values which give TONS more flexibility and makes it easier to get accurate or more interesting sound.
 
-## [How do i get the right hex value?](https://github.com/dochardware/GBStudio-Plugins/blob/8969bc2233ce828df6f9dd8411b0e7faacf8a6bc/Creating%20SFX%20Quick%20Guide.md)
-**Included is Game Boy Sound Manipulator (Version 1.01)** which will let you play around with shaping sound and give you the appropriate hex value. The best part is you can load the rom onto your gameboy and hear machine accurate sound before coding unlike making music. This is included with the plugin. You can find the guide [here](https://github.com/dochardware/GBStudio-Plugins/blob/8969bc2233ce828df6f9dd8411b0e7faacf8a6bc/Creating%20SFX%20Quick%20Guide.md).
+## [How do i get the right hex value?](https://github.com/dochardware/GBStudio-Plugins/blob/main/Creating%20SFX%20Quick%20Guide.md)
+**Included is Game Boy Sound Manipulator (Version 1.01)** which will let you play around with shaping sound and give you the appropriate hex value. The best part is you can load the rom onto your gameboy and hear machine accurate sound before coding unlike making music. This is included with the plugin. You can find the guide [here](https://github.com/dochardware/GBStudio-Plugins/blob/main/Creating%20SFX%20Quick%20Guide.md).
 
 ## Installing the plugin
 Installing is as simple as creating a plugins folder in the root of your project file folder if you don’t already have one (not NOT NOT the assets folder) and placing the unzipped folder inside. In GBStudio when you add an event, it will be filed under MAX. Thats it. 
