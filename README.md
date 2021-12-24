@@ -7,7 +7,8 @@ Get more control of your sound effects to make your game feel more satisfying. T
 
 [Download v1.0](https://github.com/dochardware/GBStudio-Plugins/releases/tag/v1.0) | [Plugin Guide](https://github.com/dochardware/GBStudio-Plugins/blob/a6cf889399843b72f06f72006bb758f7eff22ca1/Maximum%20SFX%20Guide.md) | [Sound Creation Guide](https://github.com/dochardware/GBStudio-Plugins/blob/5c6e40815ac2fbda63c2e1e889b385c3f3937af1/Creating%20SFX%20Quick%20Guide.md)
 
+https://user-images.githubusercontent.com/1316677/147369851-6f253101-1b36-4185-b4d6-6ab89d5c1756.mp4
 https://user-images.githubusercontent.com/1316677/147364085-4a68166d-6dd0-42be-91c0-c47a735fa910.mp4
 
-https://user-images.githubusercontent.com/1316677/147369851-6f253101-1b36-4185-b4d6-6ab89d5c1756.mp4
+
 
