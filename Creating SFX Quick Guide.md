@@ -75,7 +75,7 @@ So that's pretty much the tool.
 Once you're done, look up at the top and write these values down cause you're probably gonna want to save them somewhere for later.
 </br><img width="400" alt="Screen Shot 2021-12-24 at 8 57 04 AM" src="https://user-images.githubusercontent.com/1316677/147365670-6b1d1e2c-813a-4a6a-9c73-7c38f17238c4.png">
 
-You will then need to put these into the plugin formatted like below. Be sure to rename the event so you know what sound it is. For more info on the plugin, [check out the guide](https://github.com/dochardware/GBStudio-Plugins/blob/main/Maximum%20SFX%20Guide.md)</br>
+You will then need to put these into the plugin formatted like below. For channels 2 and 4, you will only be given 4 values. The final value is 0x00. Be sure to rename the event so you know what sound it is. For more info on the plugin, [check out the guide](https://github.com/dochardware/GBStudio-Plugins/blob/main/Maximum%20SFX%20Guide.md)</br>
 
 <img width="263" alt="Screen Shot 2021-12-24 at 10 59 02 AM" src="https://user-images.githubusercontent.com/1316677/147365890-b048a799-6fe3-47da-9d7b-2dbd9dc48562.png">
 
